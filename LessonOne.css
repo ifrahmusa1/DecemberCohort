@@ -1,0 +1,45 @@
+
+
+
+
+
+img{
+
+    width: 300px;
+    height: 200px;
+}
+
+ol,ul{
+    list-style: none;
+}
+
+ol{
+    list-style-type: upper-alpha;
+}
+
+div{
+    background-color: brown;
+}
+
+.firstDiv{
+    background-color: pink;
+}
+
+
+
+#ifrah{
+    background-color: orange;
+}
+
+h1{
+    font-style: italic;
+    font-family: cursive;
+    color: gold;
+}
+
+#title{
+    font-style: normal;
+    font-size: 86px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
